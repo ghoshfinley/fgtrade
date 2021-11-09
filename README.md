@@ -1,0 +1,2 @@
+# fgtrade
+Algo trading test
